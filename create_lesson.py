@@ -1,4 +1,8 @@
+'''Импорты'''
 import sqlite3
+
+
+'''Создание уроков'''
 connection = sqlite3.connect('schedule.db', check_same_thread=False)
 cursor = connection.cursor()
 
