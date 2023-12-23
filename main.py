@@ -7,7 +7,7 @@ import time
 
 
 '''Переменные'''
-token = "6332949036:AAFw7_1xnbEwIhuBtq4YL9BZsPMqnRdgXNU"
+token = "ВВЕДИТЕ СВОЙ ТОКЕН"
 bot = telebot.TeleBot(token)
 schedule1 = schedule()
 
